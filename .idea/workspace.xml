@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d23a2075-b845-4034-acd3-dbe48b617e39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/org/cigna/assignment/Runner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/cigna/assignment/Runner.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hTz3BXwZpLFqLNjd65Y9Rl2S2N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SquareRoot" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="squareroot [file:/Users/tgurunatham/Documents/GitHub/SquareRoot/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="SquareRoot-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3200099336333" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1004238735" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="87871327" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../cdm-bankrate-sdk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-cohesion" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-custom.g8" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-data-mart-ccdc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-email" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-entertainment-sdk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-flatreporting" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-healthline-revenue" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-healthline-revenue2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-insurance" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-mac" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-metrics" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-paidsearch" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-revenue" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-sdk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-timeinc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-trafficsources" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-trane" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cdm-usertracking" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d23a2075-b845-4034-acd3-dbe48b617e39" name="Default Changelist" comment="" />
+      <created>1600049668161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600049668161</updated>
+      <workItem from="1600049674229" duration="7108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600050233978">
+      <screen x="0" y="23" width="3440" height="1343" />
+    </state>
+    <state x="454" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.3440.1343@0.23.3440.1343" timestamp="1600050233978" />
+    <state x="641" y="380" width="673" height="486" key="find.popup" timestamp="1600058137754">
+      <screen x="0" y="23" width="3440" height="1343" />
+    </state>
+    <state x="641" y="380" width="673" height="486" key="find.popup/0.23.3440.1343@0.23.3440.1343" timestamp="1600058137754" />
+  </component>
+</project>

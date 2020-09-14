@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.3":{"hashes":[["/Users/tgurunatham/Documents/GitHub/SquareRoot/src/test/scala/org/cigna/assignment/SquareRootTest.scala","5acea5cd87f8ef5005dbd64fce9b3ba01b0b123d"]],"lastModifiedTimes":[]}}]

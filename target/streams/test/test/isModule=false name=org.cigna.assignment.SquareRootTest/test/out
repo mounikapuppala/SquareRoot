@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSquareRootTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msquareRoot of 100[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msquareRoot of 121[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 11[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msquareRoot of -1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return Invalid Number Error[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msquareRoot of 400000000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 20000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msquareRoot of 13[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 3.605551275463989[0m[0m
